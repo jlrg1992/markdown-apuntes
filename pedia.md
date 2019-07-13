@@ -21,3 +21,9 @@ La adquisición de funciones caracterizada por un orden fijo, condicionado hené
 ### ¿Cuál es la dirección de la maduración?
 
 Cefalocaudal y próximodistal
+
+## Reanimación neonatal
+
+### Porcentaje de prematuros que precisan reanimación
+
+Hasta el 80%
